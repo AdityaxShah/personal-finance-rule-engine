@@ -1,0 +1,14 @@
+out/
+sources.txt
+*.class
+*.jar
+
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+.DS_Store
+Thumbs.db

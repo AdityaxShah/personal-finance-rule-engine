@@ -1,0 +1,11 @@
+RECORD_TYPE,COL1,COL2,COL3,COL4,COL5,COL6
+ACCOUNT,Aarav Mehta,11900.00,,,,
+BUDGET,Food,4000.00,,,,
+BUDGET,Travel,2500.00,,,,
+BUDGET,Books,2000.00,,,,
+TX,TX-101,INCOME,15000.00,Allowance,2026-11-01,Monthly stipend
+TX,TX-102,INCOME,3000.00,Freelance,2026-11-05,Tutoring session
+TX,TX-103,EXPENSE,1200.00,Food,2026-11-06,Mess and snacks
+TX,TX-104,EXPENSE,2200.00,Food,2026-11-10,Group dinner
+TX,TX-105,EXPENSE,900.00,Food,2026-11-14,Coffee and lunch
+TX,TX-106,EXPENSE,1800.00,Books,2026-11-16,Algorithms and Java reference
