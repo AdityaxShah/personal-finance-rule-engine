@@ -3,3 +3,8 @@
 [2026-11-14] [CRITICAL] (CategoryBudgetRule) Category 'Food' exceeded budget 4000.00 (spent 4300.00, overrun 300.00).
 [2026-11-16] [WARNING] (CategoryBudgetRule) Category 'Books' reached 90.0% of budget 2000.00 (spent 1800.00).
 [2026-11-16] [INFO] (HighValueAlertRule) High-value expense of 1800.00 recorded in 'Books' (threshold 1500.00, note: Algorithms and Java reference).
+[2026-11-10] [WARNING] (CategoryBudgetRule) Category 'Food' reached 85.0% of budget 4000.00 (spent 3400.00).
+[2026-11-10] [INFO] (HighValueAlertRule) High-value expense of 2200.00 recorded in 'Food' (threshold 1500.00, note: Group dinner).
+[2026-11-14] [CRITICAL] (CategoryBudgetRule) Category 'Food' exceeded budget 4000.00 (spent 4300.00, overrun 300.00).
+[2026-11-16] [WARNING] (CategoryBudgetRule) Category 'Books' reached 90.0% of budget 2000.00 (spent 1800.00).
+[2026-11-16] [INFO] (HighValueAlertRule) High-value expense of 1800.00 recorded in 'Books' (threshold 1500.00, note: Algorithms and Java reference).
